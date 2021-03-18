@@ -1,6 +1,6 @@
 
 ## LinkedIn Home Page using Android JtePack Compose
 
-######## Screenshot
+#### Screenshot
 
-('screenshot.png')['screenshot.png']
+![screenshot](screenshot.png)
